@@ -32,8 +32,7 @@ git g:
 git-update gu:
 	git add README.md Makefile tendermint/ avalanche/
 	git commit -m "Now get started to research about consensus"
-	#git commit -m "add goroot function changing go version to use"
-	#git push -u https://sikang99:----@github.com/sikang99/go-funcs
+	git config credential.helper store
 	git push
 
 git-status gs:
