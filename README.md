@@ -5,4 +5,8 @@ Analysis of blockchain consensuses
 
 ### Quorum
 
+### Ripple
+
+### Stellar
+
 ### Avalanche
