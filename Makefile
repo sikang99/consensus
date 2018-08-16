@@ -31,7 +31,7 @@ git g:
 
 git-update gu:
 	git add README.md Makefile *
-	git commit -m "Now get started to research about consensus"
+	git commit -m "gathering related information about consensus of major blockchains"
 	git config credential.helper store
 	git push
 
