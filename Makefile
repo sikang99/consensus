@@ -30,7 +30,7 @@ git g:
 	@echo ""
 
 git-update gu:
-	git add README.md Makefile tendermint/ avalanche/
+	git add README.md Makefile *
 	git commit -m "Now get started to research about consensus"
 	git config credential.helper store
 	git push
