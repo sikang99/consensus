@@ -1,4 +1,4 @@
-# consensus
+# Consensus for private or consortium
 Analysis of blockchain consensuses
 
 ### Tendermint
